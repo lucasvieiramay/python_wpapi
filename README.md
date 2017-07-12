@@ -55,7 +55,7 @@ new_post = api2.create_post(title='Foo', content='Bar')
 make test
 ```
 
-* Free software: MIT licensea
+* Free software: MIT license
 
 [pypi-image]: https://img.shields.io/pypi/v/python_wpapi.svg 
 [pypi-url]: https://pypi.python.org/pypi/python_wpapi
